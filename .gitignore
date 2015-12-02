@@ -1,0 +1,12 @@
+.*.swp
+*.o
+*.cmd
+trunk/bin
+trunk/build_dir
+trunk/dl
+trunk/feeds
+trunk/staging_dir
+trunk/tmp
+trunk/logs
+trunk/package/feeds
+
