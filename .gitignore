@@ -9,4 +9,5 @@ trunk/staging_dir
 trunk/tmp
 trunk/logs
 trunk/package/feeds
-
+trunk/.config*
+OCTEON-SDK/linux/kernel/linux/.config*
